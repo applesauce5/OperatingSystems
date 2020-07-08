@@ -1,0 +1,7 @@
+// Things to do and figure out
+
+->++ How to traverse through a bitmap
+
+-> What happens when somebody requests something that is more than a page size can allocate?
+
+

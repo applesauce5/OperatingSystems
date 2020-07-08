@@ -1,0 +1,5 @@
+// 1. In the current directory of my_vm.c and my_vm.h and .....
+make
+
+// 2. In benchmarks directory 
+make test
